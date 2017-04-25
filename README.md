@@ -1,4 +1,7 @@
-# api documentation for  [karma-requirejs (v1.1.0)](https://github.com/karma-runner/karma-requirejs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-requirejs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-requirejs)
+# npmdoc-karma-requirejs
+
+#### basic api documentation for  [karma-requirejs (v1.1.0)](https://github.com/karma-runner/karma-requirejs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-requirejs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-requirejs)
+
 #### A Karma plugin. Adapter for RequireJS framework.
 
 [![NPM](https://nodei.co/npm/karma-requirejs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-requirejs)
@@ -130,7 +133,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
